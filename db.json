@@ -1,14 +1,5 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+    [{  "id":"01",
+        "title":"Bonbin Mangkang",
+        "lat":"-6.985998",
+        "lng":"110.345998",
+        "deskripsi": "Taman Margasatwa Wonosari Mangkang merupakan relokasi dari kebun binatang Tinjomoyo. Sebagian satwa yang sebelumnya berada di Tinjomoyo, telah dipindah di tempat ini. Tempat rekreasi ini berada di pintu masuk Kota Semarang, tepatnya di jalan Raya Semarang-Kendal Km 17, dibuka untuk umum, mulai jam 08.00 s/d 17.00 WIB, Transportasi mudah Karena berada di pinggir jalan."}]
